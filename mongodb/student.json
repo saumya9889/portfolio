@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6444d8cbd8cb0a41280b68be"
   },
-  "Name": "Ujjwal",
+  "Name": "Sam",
   "email": "ujjwal9sinha@gmail.com",
   "age": 23
 },{
@@ -16,7 +16,7 @@
   "_id": {
     "$oid": "6444dbf9d8cb0a41280b68c0"
   },
-  "Name": "Aditya",
+  "Name": "Prem",
   "email": "aditya.com",
   "age": 18
 },{
